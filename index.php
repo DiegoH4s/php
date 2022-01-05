@@ -2,6 +2,6 @@
 	
 	echo "Olá mundo123 e sekai!";
 
-	echo "Eita4!";
-
+	echo "Eita!";
+	
 ?>
