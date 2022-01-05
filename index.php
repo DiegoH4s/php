@@ -1,7 +1,7 @@
 <?php
 	
-	echo "Olá mundo123 e world!";
+	echo "Olá mundo123 e terra!";
 
-	echo "Eita!";
+	echo "Eita3!";
 
 ?>
