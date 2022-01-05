@@ -1,7 +1,7 @@
 <?php
 	
-	echo "Olá mundo123 e world!";
+	echo "Olá mundo123 e sekai!";
 
-	echo "Eita!";
+	echo "Eita4!";
 
 ?>
