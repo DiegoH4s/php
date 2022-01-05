@@ -4,4 +4,6 @@
 
 	echo "Eita!";
 
+	echo "Hello world";
+
 ?>
